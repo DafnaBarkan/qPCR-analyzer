@@ -8,7 +8,9 @@ This tool would streamline the qPCR analysis workflow in my lab by automatically
 ## Example data
 The program asks the user to input some information about the data. Here are the answeres regarding the example input data:
 qPCR result file name: 2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls
+
 The name of the relevant worksheet: Results
+
 The control target name is: B2M
 
 Dafna Barkan: https://dafnabarkan.github.io/
