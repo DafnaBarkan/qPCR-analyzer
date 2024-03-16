@@ -13,7 +13,7 @@ qPCR result file name: 2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export
 
 The name of the relevant worksheet: Results
 
-The control target name: B2M
+The normalizing gene name: B2M
 
 The reference sample name: wt30a
 
