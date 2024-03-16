@@ -5,7 +5,7 @@ I propose creating an automated data analysis and reporting tool for qPCR result
 
 This tool would streamline the qPCR analysis workflow in my lab by automatically performing the calculations, visualizations, and report generation that is currently done manually. Automating these repetitive steps will improve efficiency, reduce human error, and allow for easier comparison across qPCR experiments.
 
-**example data:
+# example data:
 The program asks the user to input some information about the data. Here are the answeres regarding the example input data:
 qPCR result file name: 2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls
 The name of the relevant worksheet: Results
