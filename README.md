@@ -17,7 +17,7 @@ The normalizing gene name: B2M
 
 The reference sample name: wt30a
 
-The Excel file `example.xls` is available in this repository. You can download it here:
+You can download the example input here:
 [2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14626571/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
 
 
