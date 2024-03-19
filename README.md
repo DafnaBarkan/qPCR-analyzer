@@ -40,8 +40,8 @@ You can download the example input here:
 
 ### Tests
 Ensure that the testing data files are located in the tests/data directory.
-Run the tests with the following command:<br>
-pytest
+* Run the tests with the following command:<br>
+  pytest
 
 
 Dafna Barkan: https://dafnabarkan.github.io/
