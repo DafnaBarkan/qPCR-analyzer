@@ -18,8 +18,8 @@ Here are the answeres regarding the example input data:
 * The name of the relevant worksheet: Results
 * The normalizing gene name: B2M
 * The reference sample name: wt30a
-* The samples pattern for ploting can be anything, i suggest "wt" or "del"
-* The target pattern for ploting can be anything, i suggest "44" or "55"
+* The samples pattern for ploting can be anything, I suggest "wt" or "del"
+* The target pattern for ploting can be anything, I suggest "44" or "55"
   
 You can download the example input here:
 [2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14626571/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
