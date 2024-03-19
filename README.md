@@ -18,8 +18,23 @@ This tool would streamline the qPCR analysis workflow in my lab by automatically
 * Install the project dependencies.<br>
   pip install -r requirements.txt
 
+#### Python dependencies
+* *xlrd* (version 2.0.1)
+* *matplotlib* (version 3.6.2)
+* *pandas* (version 1.5.2)
+  
+#### Additional imports
+The following modules are also used in the project but are not listed in the requirements.txt file:
+* *sys* 
+* *importlib.util*
+* *datetime*
+* *os*
+
 ### How to run the program?
-Make sure the input data file is in the same directoty as the qPCR_analyzer.py program, and the cd is set on that folder. Ensure it is in .xls format.<br>
+Before running the program, ensure that the input data file is in the same directory as the *qPCR_analyzer.py* program, and your current directory (cd) is set to that folder.<br>
+Additionally, make sure that the input data file is in .xls format.<br>
+To run the program:
+* Navigate to the directory where the qPCR_analyzer.py program and the input data file are located.
 * Run the program with the following command:<br>
   python .\qPCR_analyzer.py    <br>
 * Follow the instructions to conduct the analysis by your parameters.
