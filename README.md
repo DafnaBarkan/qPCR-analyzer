@@ -10,6 +10,20 @@ The output will include in a new folder *("output")*:
 
 This tool would streamline the qPCR analysis workflow in my lab by automatically performing the calculations, visualizations, and report generation that is currently done manually. Automating these repetitive steps will improve efficiency, reduce human error, and allow for easier comparison across qPCR experiments.
 
+### Dependencies installations
+* Clone this repository to your local machine.<br>
+  git clone https://github.com/your-username/your-repository.git
+* Navigate to the project directory.<br>
+  cd your-repository
+* Install the project dependencies.<br>
+  pip install -r requirements.txt
+
+### How to run the program?
+Make sure the input data file is in the same directoty as the qPCR_analyzer.py program, and the cd is set on that folder. Ensure it is in .xls format.<br>
+* Run the program with the following command:<br>
+  python .\qPCR_analyzer.py    <br>
+* Follow the instructions to conduct the analysis by your parameters.
+
 ### Example data
 The program asks the user to input some information about the data.
 
@@ -23,6 +37,11 @@ Here are the answeres regarding the example input data:
   
 You can download the example input here:
 [2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14626571/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
+
+### Tests
+Ensure that the testing data files are located in the tests/data directory.
+Run the tests with the following command:<br>
+pytest
 
 
 Dafna Barkan: https://dafnabarkan.github.io/
