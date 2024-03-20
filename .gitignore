@@ -1,3 +1,4 @@
 *.xls
 /generated/
+__pycache__/
 
