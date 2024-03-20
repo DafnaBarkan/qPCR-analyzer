@@ -51,7 +51,7 @@ Here are the answeres regarding the example input data:
 * The target pattern for ploting can be anything, I suggest "44" or "55"
   
 You can download the example input here:
-[example_input.xls](https://github.com/DafnaBarkan/qPCR-analyzer/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
+[example_input.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14664153/example_input.xls)
 
 ### Tests
 Ensure that *test_qPCR_analyzer.py* is located in the same directory as the *qPCR_analyzer.py* program, and your current directory (cd) is set to that folder.<br>
