@@ -30,7 +30,7 @@ The following modules are also used in the project but are not listed in the req
 * *datetime*
 * *os*
 
-### How to run the program?
+### How to run the program
 Before running the program, ensure that the input data file is in the same directory as the *qPCR_analyzer.py* program, and your current directory (cd) is set to that folder.<br>
 Additionally, make sure that the input data file is in .xls format.<br>
 To run the program:
@@ -43,7 +43,7 @@ To run the program:
 The program ask the user to input some information about the data.
 
 Here are the answeres regarding the example input data:
-* qPCR result file name: 2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls
+* qPCR result file name: example_input.xls
 * The name of the relevant worksheet: Results
 * The normalizing gene name: B2M
 * The reference sample name: wt30a
@@ -51,7 +51,7 @@ Here are the answeres regarding the example input data:
 * The target pattern for ploting can be anything, I suggest "44" or "55"
   
 You can download the example input here:
-[2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14626571/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
+[example_input.xls](https://github.com/DafnaBarkan/qPCR-analyzer/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
 
 ### Tests
 Ensure that *test_qPCR_analyzer.py* is located in the same directory as the *qPCR_analyzer.py* program, and your current directory (cd) is set to that folder.<br>
