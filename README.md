@@ -40,7 +40,7 @@ To run the program:
 * Follow the instructions to conduct the analysis by your parameters.
 
 ### Example data
-The program asks the user to input some information about the data.
+The program ask the user to input some information about the data.
 
 Here are the answeres regarding the example input data:
 * qPCR result file name: 2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls
@@ -54,7 +54,7 @@ You can download the example input here:
 [2023-12-14_5kbinf_calibration_QuantStudio 12K Flex_export.xls](https://github.com/DafnaBarkan/qPCR-analyzer/files/14626571/2023-12-14_5kbinf_calibration_QuantStudio.12K.Flex_export.xls)
 
 ### Tests
-Ensure that the testing data files are located in the tests/data directory.
+Ensure that *test_qPCR_analyzer.py* is located in the same directory as the *qPCR_analyzer.py* program, and your current directory (cd) is set to that folder.<br>
 * Run the tests with the following command:<br>
   pytest
 
