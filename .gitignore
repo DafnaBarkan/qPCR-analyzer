@@ -1,4 +1,4 @@
 *.xls
 /generated/
 __pycache__/
-
+*.txt
